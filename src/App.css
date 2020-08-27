@@ -26,6 +26,7 @@
 
 .App-link {
   color: #61dafb;
+  -webkit-app-region: drag;
 }
 
 @keyframes App-logo-spin {
