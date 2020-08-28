@@ -6,6 +6,76 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "6282769",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "10529944",
+      "name": "刷新",
+      "font_class": "shuaxin",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "16588061",
+      "name": "铃铛",
+      "font_class": "lingdang",
+      "unicode": "e704",
+      "unicode_decimal": 59140
+    },
+    {
+      "icon_id": "700790",
+      "name": "本周",
+      "font_class": "benzhou",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "5203307",
+      "name": "文本",
+      "font_class": "wenben",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "6627952",
+      "name": "当日挂号",
+      "font_class": "dangriguahao",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    },
+    {
+      "icon_id": "6880955",
+      "name": "垃圾桶",
+      "font_class": "lajitong",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "7055635",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e72a",
+      "unicode_decimal": 59178
+    },
+    {
+      "icon_id": "9029219",
+      "name": "已完成",
+      "font_class": "yiwancheng",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "16696540",
+      "name": "箱子",
+      "font_class": "xiangzi",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
       "icon_id": "3248670",
       "name": "关闭",
       "font_class": "guanbi",
