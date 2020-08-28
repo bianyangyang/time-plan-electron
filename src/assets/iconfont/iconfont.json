@@ -1,0 +1,30 @@
+{
+  "id": "2033049",
+  "name": "time-plan-electron",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3248670",
+      "name": "关闭",
+      "font_class": "guanbi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5636974",
+      "name": "最小化",
+      "font_class": "zuixiaohua",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "16565727",
+      "name": "最大化",
+      "font_class": "zuidahua",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    }
+  ]
+}

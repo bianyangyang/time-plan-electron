@@ -1,0 +1,23 @@
+.titleRight {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  .titleDragComponent {
+    flex: 1;
+    -webkit-app-region: drag; // 设置可拖曳
+  }
+  .titleControlItem:hover {
+    background: #f0f0f1;
+  }
+  .titleControlItem {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 32px;
+    span {
+      color: #2b2e34;
+      font-size: 12px;
+    }
+  }
+}

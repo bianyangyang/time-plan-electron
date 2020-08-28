@@ -6,8 +6,8 @@ app.on("ready", () => {
     Menu.setApplicationMenu(null)
     mainWindow = new BrowserWindow({
         frame: false,
-        width: 1023,
-        height: 680,
+        width: 1288,
+        height: 780,
         webPreferences: {
             nodeIntegration: true,
         },

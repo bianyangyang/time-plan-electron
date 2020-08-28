@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="guanbi" unicode="&#58880;" d="M153.998 782.222l756.224-756.224-40.22-40.22-756.224 756.224zM870.002 782.222l40.22-40.22-756.224-756.224-40.22 40.22z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="zuixiaohua" unicode="&#58908;" d="M928.2 348h-832c-17.7 0-32 14.3-32 32s14.3 32 32 32h832c17.7 0 32-14.3 32-32s-14.3-32-32-32z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="zuidahua" unicode="&#59230;" d="M1016.522 171.56H833.874v-236.781h-61.532v1.168H124.311v-1.168H62.779v662.44h236.002V833.221h779.273v-661.662h-61.532zM124.311-2.521h648.031V535.687H124.311v-538.208z m892.211 774.21h-656.21v-174.47h473.561v-364.128h182.648V771.689z"  horiz-adv-x="1157" />
+
+    
+
+
+  </font>
+</defs></svg>
