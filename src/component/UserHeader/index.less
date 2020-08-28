@@ -1,6 +1,7 @@
 .userHeader {
   display: flex;
   margin-top: 5px;
+  margin-bottom: 5px;
   padding-left: 10px;
   height: 50px;
   align-items: center;
@@ -25,4 +26,72 @@
       }
     }
   }
+}
+.listItem {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  line-height: 40px;
+  .iconfont {
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 18px;
+  }
+  .listItemName {
+    font-size: 14px;
+  }
+}
+.listItem:hover {
+  background: #e1e6f2;
+  .listItemName {
+    font-size: 14px;
+    font-weight: 600;
+  }
+}
+.formAdd {
+  margin-top: 5px;
+  .formAddSelect {
+    display: flex;
+    justify-content: center;
+    .selectItem {
+      width: 75px;
+      border-bottom: 1px solid #a8aaad;
+      text-align: center;
+      span {
+        font-size: 14px;
+        color: #b2b4b7;
+        line-height: 45px;
+      }
+    }
+    .select {
+      border-bottom: 1px solid #05080f;
+      span {
+        color: #05080f;
+        font-weight: 600;
+      }
+    }
+    .selectItem:hover {
+      background: #e1e6f2;
+      border-bottom: 1px solid #05080f;
+      span {
+        color: #05080f;
+        font-weight: 600;
+      }
+    }
+  }
+  .listItem {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  .listItem:hover {
+    background: #f5f6f8;
+    .listItemName {
+      font-weight: 500;
+    }
+  }
+}
+.divide {
+  margin: 5px auto;
+  width: 90%;
+  border-top: 1px solid #bbbdc1;
 }
